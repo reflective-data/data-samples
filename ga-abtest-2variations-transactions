@@ -1,4 +1,4 @@
-Experiment ID with Variant,Client Id,Revenue,Transactions,Quantity,Sessions
+Variation,Client Id,Revenue,Transactions,Quantity,Sessions
 Control,1055553400.1556624077,US$0.00,0,0,1
 Variation 1,1055539575.1556846334,US$0.00,0,0,1
 Variation 1,1055510147.1556227653,US$0.00,0,0,1
